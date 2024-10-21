@@ -1,8 +1,8 @@
 Custom License
 
-Copyright © 2024 Reaper
+Copyright © 2024 141Reaper
 
-**German**
+# German
 
 Hiermit wird die Erlaubnis erteilt, diese Software kostenlos zu verwenden, zu kopieren und zu modifizieren, unter den folgenden Bedingungen:
 
@@ -14,10 +14,10 @@ Hiermit wird die Erlaubnis erteilt, diese Software kostenlos zu verwenden, zu ko
 
 DIE SOFTWARE WIRD "WIE BESEHEN" BEREITGESTELLT, OHNE GARANTIE JEGLICHER ART. DER URHEBER ÜBERNIMMT KEINE HAFTUNG FÜR SCHÄDEN, DIE AUS DER NUTZUNG DER SOFTWARE ENTSTEHEN.
 
-Reaper
-Discord: 141reaper
+#### Reaper
+#### Discord: 141reaper
 
-**English**
+# English
 
 Permission is hereby granted to use, copy and modify this software without fee, subject to the following conditions:
 
@@ -29,6 +29,5 @@ Permission is hereby granted to use, copy and modify this software without fee, 
 
 THE SOFTWARE IS PROVIDED ‘AS IS’, WITHOUT WARRANTY OF ANY KIND. THE AUTHOR ASSUMES NO LIABILITY FOR DAMAGES RESULTING FROM THE USE OF THE SOFTWARE.
 
-Reaper
-
-Discord: 141reaper
+#### Reaper
+#### Discord: 141reaper
