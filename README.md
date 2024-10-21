@@ -1,7 +1,5 @@
 # Info
 
-This FiveM script allows you to recover or delete a vehicle using its license plate. It was initially created as a temporary fix for a bug in **okokGarage** and **AdvancedParking**. The issue arose when an admin used the "dv" command to delete a vehicle, causing it to neither be stored in the garage nor appear in the impound. As a result, it became impossible to park the vehicle in or out.
-
 This Script is a Custom Barkeeper script by me. Originaly it was made because Job Creator by Jacksam did not have the Features i needed.
 Originaly it was also made for the Fiv3Devs Bahamas Mamas but you can change the Coordinates, Products and Peds as you wish.
 
